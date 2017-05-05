@@ -1,0 +1,14 @@
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/install/local.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/install/strip.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/dlib_.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/install.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/list_install_components.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/rebuild_cache.dir
+/Users/vasko/tests/dlib/tools/python/build/CMakeFiles/edit_cache.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/install/local.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/install/strip.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/install.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/list_install_components.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/edit_cache.dir
+/Users/vasko/tests/dlib/tools/python/build/dlib_build/CMakeFiles/dlib.dir

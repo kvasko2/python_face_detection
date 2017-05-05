@@ -1,0 +1,1 @@
+/Users/vasko/tests/dlib/tools/python/../../python_examples/dlib.so
