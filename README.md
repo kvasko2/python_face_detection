@@ -13,6 +13,8 @@ The rough setup instructions I could piece together from my terminal history.
 brew install boost OR brew upgrade boost
 brew install boost-python
 
+brew install opencv3 --with-contrib
+
 pip install numpy
 pip install scipy OR sudo pip install --ignore-installed scipy
 pip install scikit-image
@@ -27,3 +29,7 @@ python face_landmark_detection.py
 ## Run
 
 ```python webcam_landmark_front.py```
+
+## Other resources
+
+[This article](http://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/) is very helpful for setting up OpenCV on Mac OS X and dealing with some of the errors that can come up.
